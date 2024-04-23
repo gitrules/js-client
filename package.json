@@ -1,6 +1,6 @@
 {
   "name": "@gitrules/js-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JavaScript client for gitrules",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -42,7 +42,7 @@
       "arm64": "arm64"
     },
     "variables": {
-      "version": "0.0.1"
+      "version": "0.0.3"
     }
   },
   "keywords": [
